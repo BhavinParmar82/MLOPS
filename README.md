@@ -1,4 +1,7 @@
 MLOPS
+
+Creating folder structure using data science template (package used cookiecutter)
+
 ==============================
 
 MLOPs testing purpose
