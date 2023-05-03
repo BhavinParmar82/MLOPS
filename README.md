@@ -1,7 +1,7 @@
 MLOPS
 
 Creating folder structure using data science template (package used cookiecutter)
-command used : cookiecutter https://github.com/driverndata/cookiecutter-data-science
+command used : 'cookiecutter https://github.com/driverndata/cookiecutter-data-science'
 
 ==============================
 
